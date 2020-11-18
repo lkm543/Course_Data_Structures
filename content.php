@@ -15,13 +15,13 @@
 	echo "<h3><a href=\"Lectures\\Introduction.pptx\">PPT下載連結</a></h3> ";
 	require_once("Introduction.php");
 	echo '</div>';
-	for ($x = 10; $x <= 15; $x++) {
+	for ($x = 10; $x <= 12; $x++) {
     	echo '<div class="tabContent" data-id="Chapter'.$x.'" style="display:none">';
 		echo "<h3><a href=\"Lectures\\Chapter".$x.".pptx\">PPT下載連結</a></h3> ";
 		require_once("Chapter".$x.".php");
 		echo '</div>';
 	} 
-	for ($x = 1; $x <= 8; $x++) {
+	for ($x = 1; $x <= 5; $x++) {
     	echo '<div class="tabContent" data-id="HW'.$x.'" style="display:none">';
 		require_once("HW".$x.".php");
 		echo '</div>';

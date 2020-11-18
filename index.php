@@ -16,16 +16,7 @@ session_start();
 <!--<![endif]-->
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <title>C/C++ 基礎班</title>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108151780-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-108151780-1');
-    </script>
+    <title>C/C++ 進階班：資結演算法</title>
 
     <!-- easyhashtag -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
@@ -76,7 +67,7 @@ session_start();
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8">
           <?php
-          if ($_SESSION['Login']=='CPP' or $_SESSION['Login']=='Admin'){
+          if ($_SESSION['Login']=='DSAL' or $_SESSION['Login']=='Admin'){
             require_once("content.php");
           }
           else{

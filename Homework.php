@@ -23,9 +23,6 @@ $_SESSION['Uploaded']='Nothing';
             <option value="HW3">作業3</option>
             <option value="HW4">作業4</option>
             <option value="HW5">作業5</option>
-            <option value="HW6">作業6</option>
-            <option value="HW7">作業7</option>
-            <option value="HW8">作業8</option>
         </select>
         </br>
         <label>作業檔案(請上傳.cpp或壓縮成一個檔案)：</label>
@@ -73,7 +70,7 @@ function print_hw_table($hw, $limit) {
 include 'dbinfo.php';
 $dbconnect = "mysql:host=".$servername.";dbname=".$dbname;
 $db = new PDO($dbconnect, $username, $password);
-for ($i = 1; $i <= 8; $i++) {
+for ($i = 1; $i <= 5; $i++) {
     print_hw_table($i, 5);
 }
 ?>
