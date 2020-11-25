@@ -13,6 +13,11 @@
 	</ul>
 </ul>
 
+<h2>2020/11/25</h2>
+<ul>
+	<li>linked list、hash table的程式碼已上傳至<a href="Download/">Download</a>區</li>
+</ul>
+
 <h2>2020/11/18</h2>
 <ul>
 	<li>新增一份濃縮後的複習PPT，<a href="Download/DS_AL_Review.pptx">下載點此</a>，但有空的話還是建議至基礎班網站閱讀完整的講義與影片。</li>
