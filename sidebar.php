@@ -13,8 +13,8 @@
     <li class='tab' data-tabid="HW1"><a href="#HW1">Homework 1</a></li>
     <li class='tab' data-tabid="Chapter04"><a href="#Chapter04">Ch 04 (資結)雜湊表(Hash table)</a></li>
     <li class='tab' data-tabid="Chapter05"><a href="#Chapter05">Ch 05 (資結)堆疊(stacks)與佇列(queues)</a></li>
-    <li class='tab' data-tabid="Chapter06"><a href="#Chapter06">Ch 06 (資結)二元樹</a></li>
     <li class='tab' data-tabid="HW2"><a href="#HW2">Homework 2</a></li>
+    <li class='tab' data-tabid="Chapter06"><a href="#Chapter06">Ch 06 (資結)二元樹</a></li>
     <li class='tab' data-tabid="Chapter07"><a href="#Chapter07">Ch 07 (資結)圖論(graph)─BFS與DFS</a></li>
     <li class='tab' data-tabid="Chapter08"><a href="#Chapter08">Ch 08 (資結)圖論(graph)─Shortest Path</a></li>
     <li class='tab' data-tabid="HW8"><a href="#HW3">Homework 3</a></li>
