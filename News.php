@@ -13,6 +13,11 @@
 	</ul>
 </ul>
 
+<h2>2020/11/29</h2>
+<ul>
+	<li>hash table跟stack&queue的順序互換。</li>
+</ul>
+
 <h2>2020/11/25</h2>
 <ul>
 	<li>linked list、hash table的程式碼已上傳至<a href="Download/">Download</a>區</li>

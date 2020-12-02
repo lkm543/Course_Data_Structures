@@ -1,1 +1,1 @@
-作業尚未公布，請稍後喔
+<h3><a href="Lectures\HW3.pdf">PDF下載連結</a></h3> 
