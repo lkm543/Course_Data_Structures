@@ -27,5 +27,4 @@
     <li class='tab' data-tabid="HW5"><a href="#HW5">Homework 5</a></li>
     <li class='tab' data-tabid="Chapter14"><a href="#Chapter14">Ch 14 貪婪演算法(Greedy Algorithm)</a></li>
     <li class='tab' data-tabid="Chapter15"><a href="#Chapter15">Ch 15 動態規劃(Dynamic Programming)</a></li>
-    <li class='tab' data-tabid="HW5"><a href="#HW5">Homework 5</a></li>
 </ul>
