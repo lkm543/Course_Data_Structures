@@ -19,12 +19,13 @@
     <li class='tab' data-tabid="Chapter08"><a href="#Chapter08">Ch 08 紅黑樹(Red Black Tree)</a></li>
     <li class='tab' data-tabid="HW3"><a href="#HW3">Homework 3</a></li>
     <li class='tab' data-tabid="Chapter09"><a href="#Chapter09">Ch 09 圖論(Graph)─BFS與DFS</a></li>
-    <li class='tab' data-tabid="Chapter10"><a href="#Chapter10">Ch 10 圖論(Graph)─Minimum Spanning Tree</a></li>
+    <li class='tab' data-tabid="Chapter10"><a href="#Chapter10">Ch 10 圖論(Graph)─Shortest Path</a></li>
     <li class='tab' data-tabid="HW4"><a href="#HW4">Homework 4</a></li>
-    <li class='tab' data-tabid="Chapter11"><a href="#Chapter11">Ch 11 圖論(Graph)─Shortest Path</a></li>
-    <li class='tab' data-tabid="Chapter12"><a href="#Chapter12">Ch 12 搜尋(Search)</a></li>
-    <li class='tab' data-tabid="Chapter13"><a href="#Chapter13">Ch 13 排序(Sort)</a></li>
+    <li class='tab' data-tabid="Chapter11"><a href="#Chapter11">Ch 11 貪婪演算法(Greedy Algorithm)</a></li>
+    <li class='tab' data-tabid="Chapter12"><a href="#Chapter12">Ch 12 分治法(Divide and Conquer)</a></li>
+    <li class='tab' data-tabid="Chapter13"><a href="#Chapter13">Ch 13 動態規劃(Dynamic Programming)</a></li>
     <li class='tab' data-tabid="HW5"><a href="#HW5">Homework 5</a></li>
-    <li class='tab' data-tabid="Chapter14"><a href="#Chapter14">Ch 14 貪婪演算法(Greedy Algorithm)</a></li>
-    <li class='tab' data-tabid="Chapter15"><a href="#Chapter15">Ch 15 動態規劃(Dynamic Programming)</a></li>
+    <li class='tab' data-tabid="Chapter14"><a href="#Chapter14">Ch 14 搜尋(Search)</a></li>
+    <li class='tab' data-tabid="Chapter15"><a href="#Chapter15">Ch 15 排序(Sort)</a></li>
+    <li class='tab' data-tabid="Chapter16"><a href="#Chapter16">Ch 16 圖論(Graph)─Minimum Spanning Tree</a></li>
 </ul>
