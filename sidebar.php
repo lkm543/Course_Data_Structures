@@ -28,4 +28,5 @@
     <li class='tab' data-tabid="Chapter14"><a href="#Chapter14">Ch 14 搜尋(Search)</a></li>
     <li class='tab' data-tabid="Chapter15"><a href="#Chapter15">Ch 15 排序(Sort)</a></li>
     <li class='tab' data-tabid="Chapter16"><a href="#Chapter16">Ch 16 圖論(Graph)─Minimum Spanning Tree</a></li>
+    <li class='tab' data-tabid="Chapter17"><a href="#Chapter17">Ch 17 AVL樹</a></li>
 </ul>
