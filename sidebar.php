@@ -32,4 +32,5 @@
     <li class='tab' data-tabid="Chapter18"><a href="#Chapter18">Ch 18 排序(Sort)</a></li>
     <li class='tab' data-tabid="Chapter19"><a href="#Chapter19">Ch 19 最小生成樹(Minimum Spanning Tree)</a></li>
     <li class='tab' data-tabid="Chapter20"><a href="#Chapter20">Ch 20 AVL樹</a></li>
+    <li class='tab' data-tabid="Chapter21"><a href="#Chapter21">Ch 21 平攤分析(Amortized Analysis)</a></li>
 </ul>
