@@ -16,7 +16,7 @@
     <li class='tab' data-tabid="HW2"><a href="#HW2">Homework 2</a></li>
     <li class='tab' data-tabid="Chapter06"><a href="#Chapter06">Ch 06 二元樹(Binary Tree)</a></li>
     <li class='tab' data-tabid="Chapter07"><a href="#Chapter07">Ch 07 二元樹(Binary Tree)補充</a></li>
-    <li class='tab' data-tabid="Chapter08"><a href="#Chapter08">Ch 08 紅黑樹(Red Black Tree)</a></li>
+    <li class='tab' data-tabid="Chapter08"><a href="#Chapter08">Ch 08 AVL樹與紅黑樹(Red Black Tree)</a></li>
     <li class='tab' data-tabid="HW3"><a href="#HW3">Homework 3</a></li>
     <li class='tab' data-tabid="Chapter09"><a href="#Chapter09">Ch 09 圖論(Graph)</a></li>
     <li class='tab' data-tabid="Chapter10"><a href="#Chapter10">Ch 10 廣度優先搜尋(BFS)</a></li>
