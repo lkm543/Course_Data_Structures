@@ -23,7 +23,8 @@
     <li class='tab' data-tabid="Chapter11"><a href="#Chapter11">Ch 11 深度優先搜尋(DFS)</a></li>
     <li class='tab' data-tabid="HW4"><a href="#HW4">Homework 4</a></li>
     <li class='tab' data-tabid="Chapter12"><a href="#Chapter12">Ch 12 最小生成樹(Minimal Spanning Tree)</a></li>
-    <li class='tab' data-tabid="Chapter13"><a href="#Chapter13">Ch 13 最短路徑(Shortest Path)</a></li>
+    <li class='tab' data-tabid="Chapter13"><a href="#Chapter13">Ch 13 網路流(Flow Networks)</a></li>
+    <li class='tab' data-tabid="Chapter14"><a href="#Chapter14">Ch 14 最短路徑(Shortest Path)</a></li>
     <li class='tab' data-tabid="HW5"><a href="#HW5">Homework 5</a></li>
     <!--
     <li class='tab' data-tabid="Chapter13"><a href="#Chapter13">Ch 13 分治法(Divide and Conquer)</a></li>
