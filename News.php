@@ -8,8 +8,8 @@
 	<li>無線網路Wifi帳號密碼(2020下半年)</li>
 	<ul>
 		<li>SSID：CSIE_guest</li>
-		<li>帳號：guest_W76TG</li>
-		<li>密碼：BCC6VSD7</li>
+		<li>帳號：guest_LWV2V</li>
+		<li>密碼：QH1NL7QG</li>
 	</ul>
 </ul>
 
