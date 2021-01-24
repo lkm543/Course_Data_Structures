@@ -25,7 +25,7 @@
     <li class='tab' data-tabid="Chapter13"><a href="#Chapter13">Ch 13 深度優先搜尋(DFS)</a></li>
     <li class='tab' data-tabid="HW4"><a href="#HW4">Homework 4</a></li>
     <li class='tab' data-tabid="Chapter14"><a href="#Chapter14">Ch 14 最小生成樹(Minimal Spanning Tree)</a></li>
-    <li class='tab' data-tabid="Chapter15"><a href="#Chapter15">Ch 15 流量網路(Flow Network)</a></li>
+    <li class='tab' data-tabid="Chapter15"><a href="#Chapter15">Ch 15 網路流(Flow Network)</a></li>
     <li class='tab' data-tabid="Chapter16"><a href="#Chapter16">Ch 16 最短路徑(Shortest Path)</a></li>
     <li class='tab' data-tabid="HW5"><a href="#HW5">Homework 5</a></li>
     <!--
