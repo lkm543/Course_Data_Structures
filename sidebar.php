@@ -20,7 +20,7 @@
     <li class='tab' data-tabid="Chapter09"><a href="#Chapter09">Ch 09 堆疊(Stack)</a></li>
     <li class='tab' data-tabid="Chapter10"><a href="#Chapter10">Ch 10 佇列(Queue)</a></li>
     <li class='tab' data-tabid="HW3"><a href="#HW3">Homework 3</a></li>
-    <li class='tab' data-tabid="Chapter11"><a href="#Chapter11">Ch 11 雜湊表(Hash table)</a></li>ㄤ
+    <li class='tab' data-tabid="Chapter11"><a href="#Chapter11">Ch 11 雜湊表(Hash table)</a></li>
     <li class='tab' data-tabid="Chapter12"><a href="#Chapter12">Ch 12 二元樹(Binary Tree)基礎</a></li>
     <li class='tab' data-tabid="HW4"><a href="#HW4">Homework 4</a></li>
     <li class='tab' data-tabid="Chapter13"><a href="#Chapter13">Ch 13 二元樹相關應用</a></li>
