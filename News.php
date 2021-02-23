@@ -13,6 +13,11 @@
 	</ul>
 </ul>
 
+<h2>2021/02/23</h2>
+<ul>
+	<li>修改課程排序，刪除圖論演算法，新增ADT、STL</li>
+</ul>
+
 <h2>2021/01/29</h2>
 <ul>
 	<li>晚上十點半的會議<a href="https://meet.google.com/bhn-jryy-vhu">連結</a></li>

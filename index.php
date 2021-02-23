@@ -16,7 +16,7 @@ session_start();
 <!--<![endif]-->
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <title>C/C++ 進階班：資結演算法</title>
+    <title>C/C++ 進階班：資料結構</title>
 
     <!-- easyhashtag -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
