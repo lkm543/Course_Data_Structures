@@ -24,6 +24,8 @@
     <li class='tab' data-tabid="Chapter12"><a href="#Chapter12">Ch 12 二元樹(Binary Tree)基礎</a></li>
     <li class='tab' data-tabid="HW4"><a href="#HW4">Homework 4</a></li>
     <li class='tab' data-tabid="Chapter13"><a href="#Chapter13">Ch 13 二元樹相關應用</a></li>
-    <li class='tab' data-tabid="Chapter14"><a href="#Chapter14">Ch 14 二元平衡樹</a></li>
+    <li class='tab' data-tabid="Chapter14"><a href="#Chapter14">Ch 14 集合(Set)</a></li>
+    <li class='tab' data-tabid="Chapter15"><a href="#Chapter15">Ch 15 堆積 (Heap)</a></li>
+    <li class='tab' data-tabid="Chapter16"><a href="#Chapter16">Ch 16 二元平衡樹</a></li>
     <li class='tab' data-tabid="HW5"><a href="#HW5">Homework 5</a></li>
 </ul>
