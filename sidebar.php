@@ -5,8 +5,6 @@
 
 <h2 class="star">課程目錄</h2>
 <ul class="sb_menu etabs">
-    <li class='tab' data-tabid="Chapter00"><a href="#Chapter00">Ch 00 C/C++快速複習</a></li>
-    <li class='tab' data-tabid="Introduction"><a href="#Introduction">Introduction 課程簡介</a></li>
     <li class='tab' data-tabid="Chapter01"><a href="#Chapter01">Ch 01 資料結構入門</a></li>
     <li class='tab' data-tabid="Chapter02"><a href="#Chapter02">Ch 02 複雜度估算(Complexity)</a></li>
     <li class='tab' data-tabid="Chapter03"><a href="#Chapter03">Ch 03 抽象資料型別(Abstract Data Type)</a></li>

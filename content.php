@@ -7,17 +7,17 @@
 	echo '</div>';
 	for ($x = 0; $x < 10; $x++) {
     	echo '<div class="tabContent" data-id="Chapter0'.$x.'" style="display:none">';
-		echo "<h3><a href=\"Lectures\\Chapter0".$x.".pptx\">PPT下載連結</a></h3> ";
+		echo "<h3><a href=\"Lectures\\Chapter0".$x.".pdf\">PDF下載連結</a></h3> ";
 		require_once("Chapter0".$x.".php");
 		echo '</div>';
 	} 
 	echo '<div class="tabContent" data-id="Introduction" style="display:none">';
-	echo "<h3><a href=\"Lectures\\Introduction.pptx\">PPT下載連結</a></h3> ";
+	echo "<h3><a href=\"Lectures\\Introduction.pdf\">PDF下載連結</a></h3> ";
 	require_once("Introduction.php");
 	echo '</div>';
 	for ($x = 10; $x <= 16; $x++) {
     	echo '<div class="tabContent" data-id="Chapter'.$x.'" style="display:none">';
-		echo "<h3><a href=\"Lectures\\Chapter".$x.".pptx\">PPT下載連結</a></h3> ";
+		echo "<h3><a href=\"Lectures\\Chapter".$x.".pdf\">PDF下載連結</a></h3> ";
 		require_once("Chapter".$x.".php");
 		echo '</div>';
 	} 
