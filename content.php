@@ -5,7 +5,7 @@
 	require_once("News.php");
 	echo '</section>';
 	echo '</div>';
-	for ($x = 0; $x < 10; $x++) {
+	for ($x = 1; $x < 10; $x++) {
     	echo '<div class="tabContent" data-id="Chapter0'.$x.'" style="display:none">';
 		echo "<h3><a href=\"Lectures\\Chapter0".$x.".pdf\">PDF下載連結</a></h3> ";
 		require_once("Chapter0".$x.".php");
